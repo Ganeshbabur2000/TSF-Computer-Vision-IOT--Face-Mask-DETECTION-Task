@@ -23,7 +23,7 @@ The steps to exceute the code is as follows:
 
 2. Change the location of the directory of dataset in the first code, Makesure both the code and dataset are present in the same folder. 
  
-3. Run the First code to train the model. The output will be the graphical representation of the analysis which shows.
+3. Run the First code to train the model. The output will be the graphical representation of the analysis which shows
 a) accuracy.
 b) Loss.
 c) value accuracy.
