@@ -23,12 +23,12 @@ The steps to exceute the code is as follows:
 
 2. Change the location of the directory of dataset in the first code, Makesure both the code and dataset are present in the same folder. 
  
-2.Run the First code to train the model. The output will be the graphical representation of the analysis which shows 
-->accuracy.
-->Loss.
-->value accuracy.
-->value loss.
+3.Run the First code to train the model. The output will be the graphical representation of the analysis which shows 
+a)accuracy.
+b)Loss.
+c)value accuracy.
+d)value loss.
 
-3. Run the 2nd code once the model is trained. Additional window will be opened as the ouput, which streams the live video of the user and detects the face with mask or without mask.
+4. Run the 2nd code once the model is trained. Additional window will be opened as the ouput, which streams the live video of the user and detects the face with mask or without mask.
 
 NOTE: Once the model is trained it is not necessary to train the model again. 2nd code can be directly excetue whenever requied.
