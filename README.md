@@ -1,4 +1,4 @@
-# TSF-Computer-Vision-IOT--Face-Mask-DETECTION-Task
+# TSF-Computer-Vision-IOT-Detection of face mask-Task3
 
 Here is the code of the project am working on!
 Project Name : Face Mask Detection 
