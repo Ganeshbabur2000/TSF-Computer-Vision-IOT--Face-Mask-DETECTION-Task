@@ -15,9 +15,9 @@ For convenient purpose I ve added both codes in the same file and exceuted the c
 
 The steps to exceuted the code is as follows: 
 
- 1.Change the location of directory of dataset in the first code, Makesure both the code and dataset are present in the same directory. 
+1.Change the location of directory of dataset in the first code, Makesure both the code and dataset are present in the same directory. 
  
- 2. Run the First code to train the model.The output of this step is the plot which shows     1.accuracy ;
+2. Run the First code to train the model.The output of this step is the plot which shows     1.accuracy ;
                                                                                               2. Loss ;
                                                                                               3.valuse accuracy ;
                                                                                               4.value loss ;
