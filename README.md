@@ -3,8 +3,9 @@
 Here is the code of the project am working on!
 Project Name : Face Mask Detection 
 
-I ve Provided a dataset which cosist of two folder    1. with mask     - it consist Images of people wearing mask ; 
-                                                      2. without mask  - it consist Images of people not wearing the mask ;
+I ve Provided a dataset which cosist of two folder    
+1. with mask     - it consist Images of people wearing mask ; 
+2. without mask  - it consist Images of people not wearing the mask ;
                                                       
 
 Here there are 2 codes given    1. Code to Train the Model
