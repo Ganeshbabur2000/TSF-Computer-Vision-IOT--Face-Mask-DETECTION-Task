@@ -3,7 +3,7 @@
 Here is the code of the project am working on!
 Project Name : Face Mask Detection 
 
-I ve Provided a dataset which cosist of two folder    
+I ve Provided a dataset link which cosist of two folder    
 1. with mask     - it consist Images of people wearing mask.
 2. without mask  - it consist Images of people not wearing the mask.
                                                       
