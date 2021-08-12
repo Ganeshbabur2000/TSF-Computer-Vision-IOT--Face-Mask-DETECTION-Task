@@ -1,7 +1,7 @@
 # TSF-Computer-Vision-IOT-Detection of face mask-Task3
 
 Here is the code of the project am working on!
-Project Name : Face Mask Detection 
+Project Name : Face Mask Detection or Face Mask Monitoring for School/Institute or Various Working Place
 
 I ve Provided a dataset link which cosist of two folder    
 1. with mask     - it consist Images of people wearing mask.
